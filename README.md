@@ -1,4 +1,4 @@
-# SDA-Project-3
+# Statistical Data Analysis-Project-3
 
 # Surf vs Ultimate Plan Revenue Analysis
 
